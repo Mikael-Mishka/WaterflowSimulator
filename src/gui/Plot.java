@@ -1,2 +1,4 @@
-package gui;public class Plot {
+package gui;
+
+public class Plot {
 }

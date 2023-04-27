@@ -1,4 +1,4 @@
-package containers;
+package sim_objects;
 
 public class WaterContainer {
 
